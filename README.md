@@ -115,7 +115,7 @@ Install both frontend and backend dependencies.
 3.  **Set up environment variables:**
 
 Create a .env file in the root of the backend directory and add the necessary environment variables for your MongoDB connection and JWT secret.\
- MONGO_URI=your-mongodb-uri/
+ MONGO_URI=your-mongodb-uri<br />
  JWT_SECRET=your-jwt-secret
 Start the server:
 

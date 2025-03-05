@@ -110,21 +110,25 @@ Install both frontend and backend dependencies.
   Backend:
   cd server
   npm install
+```
 
 3.  **Set up environment variables:**
 
 Create a .env file in the root of the backend directory and add the necessary environment variables for your MongoDB connection and JWT secret.
-MONGO_URI=your-mongodb-uri
-JWT_SECRET=your-jwt-secret
+### MONGO_URI=your-mongodb-uri
+### JWT_SECRET=your-jwt-secret
 Start the server:
 
 4. **First, start the backend server**:
+ ```bash
 cd server
 npm start
-5.  **Then, start the frontend server**:
-
+```
+6.  **Then, start the frontend server**:
+```bash
 cd client
 npm start
+```
 
 The application should now be running at http://localhost:3000.
 

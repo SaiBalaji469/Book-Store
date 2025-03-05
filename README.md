@@ -102,15 +102,14 @@ The application is designed with the following key features and functionalities:
 2. **Install dependencies**:
 
 Install both frontend and backend dependencies.
-
--Frontend:
    ```bash
--cd client
--npm install
+  Frontend:
+  cd client
+  npm install
 
--Backend:
--cd server
--npm install
+  Backend:
+  cd server
+  npm install
 
 Set up environment variables:
 
@@ -129,5 +128,5 @@ npm start
 
 The application should now be running at http://localhost:3000.
 
-Conclusion
+**Conclusion**
 This MERN Stack Bookstore Application provides a powerful solution for building a simple and scalable online bookstore. The combination of React, Node.js, Express.js, and MongoDB offers both a seamless user experience and robust backend management, making it suitable for real-world applications.

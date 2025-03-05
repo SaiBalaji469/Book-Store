@@ -111,22 +111,22 @@ Install both frontend and backend dependencies.
   cd server
   npm install
 
-Set up environment variables:
+3.  **Set up environment variables:**
 
 Create a .env file in the root of the backend directory and add the necessary environment variables for your MongoDB connection and JWT secret.
 MONGO_URI=your-mongodb-uri
 JWT_SECRET=your-jwt-secret
 Start the server:
 
-First, start the backend server:
+4. **First, start the backend server**:
 cd server
 npm start
-Then, start the frontend server:
+5.  **Then, start the frontend server**:
 
 cd client
 npm start
 
 The application should now be running at http://localhost:3000.
 
-**Conclusion**
+### **Conclusion**
 This MERN Stack Bookstore Application provides a powerful solution for building a simple and scalable online bookstore. The combination of React, Node.js, Express.js, and MongoDB offers both a seamless user experience and robust backend management, making it suitable for real-world applications.

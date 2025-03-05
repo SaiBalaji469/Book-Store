@@ -104,6 +104,7 @@ The application is designed with the following key features and functionalities:
 Install both frontend and backend dependencies.
 
 -Frontend:
+   ```bash
 -cd client
 -npm install
 

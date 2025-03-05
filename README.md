@@ -99,17 +99,17 @@ The application is designed with the following key features and functionalities:
    ```bash
    git clone https://github.com/your-username/bookstore-app.git
    cd bookstore-app
-2. Install dependencies:
+2. **Install dependencies**:
 
 Install both frontend and backend dependencies.
 
-Frontend:
-cd client
-npm install
+-Frontend:
+-cd client
+-npm install
 
-Backend:
-cd server
-npm install
+-Backend:
+-cd server
+-npm install
 
 Set up environment variables:
 
